@@ -1,4 +1,4 @@
-## Hi! I'm Pablo 👋.
+## Hi! I'm Pablo
 
 I'm a software developer based in eastern Spain.
 
