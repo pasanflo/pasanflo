@@ -1,6 +1,6 @@
 ## Hi! I'm Pablo
 
-I'm a software developer based in eastern Spain.
+I'm a software developer based in Valencia, Spain.
 
 I'm interested in Vue, Astro and anything related to front-end development.
 
