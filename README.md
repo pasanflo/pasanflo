@@ -8,4 +8,4 @@ Currently getting certified in the official Vue Certification Program.
 
 I'm interested in Vue, Astro and anything related to front-end development.
 
-📧 I try to respond to every email, feel free to contact me anytime and I'll get in touch when possible.
+✉️ I try to respond to every email, feel free to contact me anytime and I'll get in touch when possible.
